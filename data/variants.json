@@ -1,0 +1,23 @@
+{
+  "portal-audit": {
+    "path": "/hubspot-portal-audit",
+    "label": "HubSpot Portal Audit",
+    "step_line": "Our Growth Gap Analysis (GGA) shows you where opportunities are stalling, what is being missed and what to fix first.",
+    "headline_line_1": "Find the revenue your HubSpot setup",
+    "headline_line_2": "is missing."
+  },
+  "optimisation": {
+    "path": "/hubspot-optimisation-review",
+    "label": "HubSpot Optimisation Review",
+    "step_line": "Your Growth Gap Analysis (GGA) shows what is blocking performance and gives you a clear plan for what to fix first.",
+    "headline_line_1": "Find the HubSpot gaps",
+    "headline_line_2": "holding revenue back."
+  },
+  "consultancy": {
+    "path": "/hubspot-consultancy-review",
+    "label": "HubSpot Consultancy Review",
+    "step_line": "Your Growth Gap Analysis (GGA) shows the work your portal needs before you choose who should deliver it.",
+    "headline_line_1": "Know what HubSpot needs",
+    "headline_line_2": "before you hire anyone."
+  }
+}
